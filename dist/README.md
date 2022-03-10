@@ -1,9 +1,9 @@
-# fdsfds
-  ![github license](http://img.shields.io/badge/license-Apache-blue.svg)
+# README Generator
+  ![github license](http://img.shields.io/badge/license-MIT-blue.svg)
   
 
   ## Description
-  fdfds
+  This application uses node.js to create a README file based on user input
   
   ## Table of Contents
   * [Installation](#installation)
@@ -14,26 +14,26 @@
   * [Questions](#questions)
   
   ## Installation
-  dsfd
+  npm install
   
   ## Usage
-  fdsf
+  Download the code and run a command line application at the root of the project
   
   ## License
-  ![github license](http://img.shields.io/badge/license-Apache-blue.svg)
+  ![github license](http://img.shields.io/badge/license-MIT-blue.svg)
 
-  This project is covered under the Apache license
+  This project is covered under the MIT license
   
   ## Contributing
-  dfsfdsfdfsf
+  Adam P.
   
   ## Tests
-  fdsfds
+  node index
   
   ## Questions
   Contact me with any questions:<br/>
   <br/>
-  :octocat: [GitHub](https://github.com/dsfdf)<br/>
+  :octocat: [GitHub](https://github.com/agpritts)<br/>
   <br/>
-  :email: [Email](mailto:sdfsdfds)<br/>
+  :email: [Email](mailto:agpritts@gmail.com)<br/>
   

@@ -1,3 +1,4 @@
+// README template
 const generateMarkdown = data => {
   return `# ${data.title}
   ![github license](http://img.shields.io/badge/license-${data.license}-blue.svg)

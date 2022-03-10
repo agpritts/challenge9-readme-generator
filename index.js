@@ -1,7 +1,9 @@
+// Required install packages
 const fs = require('fs');
 const inquirer = require('inquirer');
 const generatePage = require('./utils/generateMarkdown.js');
 
+// Prompts user with inquirer questions
 const promptUser = () => {
     console.log(`
         ================
@@ -54,16 +56,17 @@ const promptUser = () => {
         {
             type: 'input',
             name: 'using',
-            message: 'What does the user need to know about using the repo?'
+            message: 'What does the user need to know about using the project?'
         },
         {
             type: 'input',
             name: 'contributing',
-            message: 'What does the user need to know about contributing to the repo?'
+            message: 'Who has contributed to the project?'
         }
     ]);
 };
 
+// Take data from answers and write the README file into the dist folder
 const writeFile = data => {
     return new Promise((resolve, reject) => {
         fs.writeFile('./dist/README.md', data, err => {
@@ -79,17 +82,7 @@ const writeFile = data => {
     });
 };
 
-
-
-
-
-// TODO: Create a function to write README file
-// function writeToFile(fileName, data) {}
-
-// TODO: Create a function to initialize app
-// function init() {}
-
-// Function call to initialize app
+// Call function to start questions then push answer data to writeFile function and generateMarkdown file
 promptUser()
     .then(answers => {
         return generatePage(answers);
