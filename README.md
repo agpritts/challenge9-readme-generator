@@ -14,7 +14,8 @@
   * [Questions](#questions)
   
   ## Installation
-  npm install
+  `npm init -y`
+  `npm install`
   
   ## Usage
   Download the code and run a command line application at the root of the project
@@ -28,7 +29,7 @@
   Adam P.
   
   ## Tests
-  node index
+  `node index`
   
   ## Questions
   Contact me with any questions:<br/>
@@ -36,4 +37,9 @@
   :octocat: [GitHub](https://github.com/agpritts)<br/>
   <br/>
   :email: [Email](mailto:agpritts@gmail.com)<br/>
+  
+  ## Screenshots/Videos
+  
+![Screen_Recording_2022-03-09_at_9_02_50_PM_copy_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/96213926/157575307-287a76d3-e7ac-4ead-ae59-5a748995f386.gif)
+
   
