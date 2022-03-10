@@ -69,7 +69,7 @@ const promptUser = () => {
 // Take data from answers and write the README file into the dist folder
 const writeFile = data => {
     return new Promise((resolve, reject) => {
-        fs.writeFile('./dist/README.md', data, err => {
+        fs.writeFile('./README.md', data, err => {
             if (err) {
                 reject(err);
                 return;
