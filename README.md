@@ -39,7 +39,6 @@
   :email: [Email](mailto:agpritts@gmail.com)<br/>
   
   ## Screenshots/Videos
-  
-![Screen_Recording_2022-03-09_at_9_02_50_PM_copy_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/96213926/157575307-287a76d3-e7ac-4ead-ae59-5a748995f386.gif)
+ 
+  ![Screen-Recording-2022-03-09-at-9](https://user-images.githubusercontent.com/96213926/157576098-45720e5f-826d-4fe0-8929-1a86ef962ab6.gif)
 
-  
