@@ -12,9 +12,11 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
+  * [Screenshots](#screenshots)
   
   ## Installation
-  `npm init -y`
+  `npm init -y`<br/>
+  <br/>
   `npm install`
   
   ## Usage
@@ -38,7 +40,7 @@
   <br/>
   :email: [Email](mailto:agpritts@gmail.com)<br/>
   
-  ## Screenshots/Videos
+  ## Screenshots
  
   ![Screen-Recording-2022-03-09-at-9](https://user-images.githubusercontent.com/96213926/157576098-45720e5f-826d-4fe0-8929-1a86ef962ab6.gif)
 
